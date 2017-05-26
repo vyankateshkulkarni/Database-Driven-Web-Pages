@@ -1,0 +1,112 @@
+div.person1{
+	float:left;
+	margin-left:50px;
+}
+div.dvArtistDetails{
+	float:right;
+	margin-right:269px;
+	width:40%;
+	margin-top:90px;
+}
+div.dvArtistDetails table{
+	display:block;
+}
+div.dvArtistDetails button{
+	color: lightblue;
+}
+table.tbArtistDetails{
+	border:1px black;display:block;
+}
+table.tbArtistDetails th{
+	background-color: Gainsboro;
+}
+table.tbArtistDetails td{
+	border-bottom: 1px solid lightblue;
+}
+h4.hdArtistName{
+	margin-left:50px;margin-top:500px;
+}
+.artistDiv{
+	border:ridge;height:200px;margin:1px;width:300px;
+}
+.col-md-3.img-thumbnail{
+	height:70px;
+}
+.btn-info {
+color: #fff;
+background-color: #5bc0de;
+border-color: #46b8da;
+}
+.btn-success {
+color: #fff;
+background-color: #5cb85c;
+border-color: #4cae4c;
+}
+figcaption.popup{
+padding: 10px;
+background: #e1e1e1;
+position:absolute;
+-webkit-box-shadow: 0 0 15px #A9A9A9;
+-moz-box-shadow: 0 0 15px #A9A9A9;
+box-shadow: 0 0 15px #A9A9A9;
+visibility:hidden;
+}
+figure.thumbnail:hover figcaption.popup{
+position:absolute;
+top:0;
+left:100px;
+visibility:visible;
+}
+div.relative {
+position: relative;
+left: 300px;
+border: 3px solid #73AD21;
+}
+div.dvSales {
+	float:right; margin-right:200px;margin-top:90px;
+}
+.tbSales{
+
+	border-collapse: collapse;
+	 border: 1px solid lightblue;
+	  width:150px;
+}
+.tbSales th{
+	background-color: Gainsboro;
+}
+.tbSales td{
+	border-bottom: 1px solid lightblue;
+}
+.tbProductDetails td{
+	border-bottom: 1px solid lightblue;
+}
+div.dvSales.tbSales th{
+		background-color: #f2f2f2;
+}
+.modalImg{
+	float:left;
+}
+.dvArtWorkDetails{
+	margin-left:400px; margin-right:400px;
+}
+.pcost{
+	color:red;font-weight:bold;
+}
+.btn-default {
+color:lightblue;
+}
+.thProductDetails {
+	background-color:Gainsboro;
+}
+.form-control{
+	display: none;
+}
+.searchImg{
+	float:left;
+}
+.dvSearch{
+	margin-left:100px; margin-right:150px;
+}
+.spnKeyword{
+	background-color: yellow;
+}
